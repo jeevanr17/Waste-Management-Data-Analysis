@@ -194,6 +194,10 @@ Food waste management dataset containing:
 
 ---
 
+## Live Demo
+
+[Launch AutoInsight Pro](https://waste-management-data-analysis-xebrg2rw4dqcmijvw9pfsa.streamlit.app/)
+
 ## Future Improvements
 
 - AI-powered recommendations
